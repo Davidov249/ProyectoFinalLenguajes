@@ -1,5 +1,7 @@
 # ProyectoFinalLenguajes
 
+IMPORTANTE: el proyecto terminado se encuentra en la carpeta con nombre "ProyectoTerminado", ignorar cualquier otra carpeta!
+
 Para correr el proyecto corra el programa "MaquinasTuring.exe" que se encuentra en la carpeta "Release" dentro de la carpeta "bin" del proyecto.
 
 Al iniciar el proyecto debe seleccionar una de las 5 maquinas disponibles. una vez selecionada, deberá ingresar el texto con el cual probará la maquina.
