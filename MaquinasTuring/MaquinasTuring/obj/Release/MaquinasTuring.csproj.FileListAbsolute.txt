@@ -1,0 +1,10 @@
+C:\Users\jose\source\repos\MaquinasTuring\MaquinasTuring\bin\Release\MaquinasTuring.exe.config
+C:\Users\jose\source\repos\MaquinasTuring\MaquinasTuring\bin\Release\MaquinasTuring.exe
+C:\Users\jose\source\repos\MaquinasTuring\MaquinasTuring\bin\Release\MaquinasTuring.pdb
+C:\Users\jose\source\repos\MaquinasTuring\MaquinasTuring\obj\Release\MaquinasTuring.csprojResolveAssemblyReference.cache
+C:\Users\jose\source\repos\MaquinasTuring\MaquinasTuring\obj\Release\MaquinasTuring.Form1.resources
+C:\Users\jose\source\repos\MaquinasTuring\MaquinasTuring\obj\Release\MaquinasTuring.Properties.Resources.resources
+C:\Users\jose\source\repos\MaquinasTuring\MaquinasTuring\obj\Release\MaquinasTuring.csproj.GenerateResource.cache
+C:\Users\jose\source\repos\MaquinasTuring\MaquinasTuring\obj\Release\MaquinasTuring.csproj.CoreCompileInputs.cache
+C:\Users\jose\source\repos\MaquinasTuring\MaquinasTuring\obj\Release\MaquinasTuring.exe
+C:\Users\jose\source\repos\MaquinasTuring\MaquinasTuring\obj\Release\MaquinasTuring.pdb
